@@ -15,7 +15,6 @@ Carefuly read through the .txt files before using UMOTOX, thank you!
 2. Place `ffmpeg.exe` and `ctr_WaveConverter32.exe` and all it's components inside the `tools` folder.
 3. Place your `.mp3` or `.wav` files in the root folder (same directory as the script).
 
-
 ## Output
 
 - All `.bcwav` files will be placed in the `output` folder.
@@ -24,3 +23,8 @@ Carefuly read through the .txt files before using UMOTOX, thank you!
 
 Simply download the `.zip` file and unzip it's content in a seperate folder.
 Then you just have to follow the instructions provided in the `.zip` file to start the converting process.
+
+## More Colors
+
+If you want a more colorful experience make sure to download the `umotox.color.zip` file, as this version supports colorful interface.
+You WILL have to install an additional package onto your computer if it's not on there automatically for the color version to work.
