@@ -23,4 +23,4 @@ Carefuly read through the .txt files before using UMOTOX, thank you!
 ## How to Start
 
 Simply download the `.zip` file and unzip it's content in a seperate folder.
-Then you just have to follow the instructions provided in the `.zip` file.
+Then you just have to follow the instructions provided in the `.zip` file to start the converting process.
