@@ -19,3 +19,8 @@ Carefuly read through the .txt files before using UMOTOX, thank you!
 ## Output
 
 - All `.bcwav` files will be placed in the `output` folder.
+
+## How to Start
+
+Simply download the .zip file and unzip it's content in a seperate folder.
+Then you just have to follow the instructions provided in the .zip file.
